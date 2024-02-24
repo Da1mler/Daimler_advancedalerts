@@ -10,7 +10,7 @@ This script introduces a dynamic and visually appealing notification experience 
 
 # Make sure you have installed ox_lib
 
-Installation: https://overextended.dev/ox_lib
+ox_lib installation: https://overextended.dev/ox_lib
 
 # How to change notify
 If you want to change notify you can to it in client.lua at line 18 and the second notify at line 27

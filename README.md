@@ -8,5 +8,9 @@ This script introduces a dynamic and visually appealing notification experience 
 4. Configuration: Add start Daimler_advancedalerts to your server.cfg file.
 5. Restart: Restart your FiveM server to apply changes.
 
+# Make sure you have installed ox_lib
+
+Installation: https://overextended.dev/ox_lib
+
 # How to change notify
 If you want to change notify you can to it in client.lua at line 18 and the second notify at line 27

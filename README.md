@@ -5,7 +5,7 @@ This script introduces a dynamic and visually appealing notification experience 
 1. Download: Get the latest release from our GitHub repository.
 2. Extract Files: Unpack the downloaded ZIP file.
 3. Server Resources: Move the script folder into your FiveM server's resources directory.
-4. Configuration: Add start script_folder_name to your server.cfg file.
+4. Configuration: Add start Daimler_advancedalerts to your server.cfg file.
 5. Restart: Restart your FiveM server to apply changes.
 
 # How to change notify
